@@ -1,0 +1,1 @@
+Introducing Zebra, a revolutionary messenger app built on a foundation of privacy and anonymity using the ator protocol. Experience seamless communication with the assurance of your personal information remaining secure and confidential.
